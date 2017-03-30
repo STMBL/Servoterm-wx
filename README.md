@@ -1,5 +1,5 @@
 This is the old wx based servoterm. Currently we suggest using the browser based servoterm. https://github.com/STMBL/Servoterm-app
-####Building Servoterm
+#### Building Servoterm
 ##### Requirements
 * cmake >= 2.8
 * gcc >= 4.8 or clang
